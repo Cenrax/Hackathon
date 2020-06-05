@@ -5,7 +5,7 @@ The project was based on developing a web application that would relate us the e
 
 ## Developers
 1) Subham Kundu
-2) Anish Kar
+2) Aneesh Kar
 3) Sayanti Dutta
 4) Kaushik Patra
 5) Sumit Kr. Mitra
